@@ -1,0 +1,65 @@
+<resources>
+
+    <string name="app_name">ElDrawo (エルドロー)</string>
+    <string name="title_activity_main">ElDrawo</string>
+    
+    <string name="dev_email">eldrawoandroid@gmail.com</string>
+    <string name="dev_email_subject">ElDrawo feedback</string>
+    
+    <string name="menu_settings">設定</string>
+    <string name="sound_pref">音</string>
+    <string name="score_pref">スコアを見せる</string>
+    <string name="drawing_pref_cat">Drawing</string>
+    <string name="email_developer">作者へメールする</string>
+    
+    <string name="mode_rect">長方形</string>
+    <string name="mode_ellipse">楕円</string>
+    <string name="mode_pencil">鉛筆</string>
+    <string name="mode_eraser">消しゴム</string>
+    <string name="mode_line">線</string>
+    <string name="mode_rainbow_pen">虹色ペン</string>
+    <string name="mode_cool_lines">クールライン</string>
+    <string name="mode_draw_four">万華鏡</string>
+    <string name="mode_scroll">スクロール</string>
+    <string name="mode_fill">塗りつぶす</string>
+    <string name="mode_spray">スプレー</string>
+    <string name="mode_tree">木</string>
+    <string name="mode_mystery_fill">不思議</string>
+    
+    <string name="filters">フィルター</string>
+    <string name="filter_inverse">逆</string>
+    <string name="filter_grayscale">グレースケール</string>
+    <string name="filter_horizontal_flip">左右逆</string>
+    <string name="filter_vertical_flip">上下逆</string>
+    <string name="filter_pixel">モザイク</string>
+    <string name="filter_dither">ディザリング</string>
+    
+    
+    <string name="color_chooser">色を選択</string>
+    <string name="brush_size">ブラシサイズ</string>
+    <string name="fill_shapes">形を塗りつぶす</string>
+    <string name="post_score">スコアを掲示</string>
+    <string name="clear_drawing">消去</string>
+    <string name="save">保存</string>
+    <string name="about">このソフトについて</string>
+    <string name="post_to_fb">facebookにアップ</string>
+    
+    <string name="your_name">名前</string>
+    <string name="ok">OK!</string>
+    <string name="enter_your_name">名前を書きなさい</string>
+    <string name="couldnt_connect">エラー</string>
+    
+    <string name="made_with_eld">アンドロイドのエルドローで描いた。スコア:</string>
+    
+    <string name="about_long">エルドローは、子どもから大人まで使える絵を描くソフトです。\nもう一つのお勧めはTuxPaint。\n描いた絵をfacebookなどでシェアしよう。\n\nThis software uses the following third party software:\nAmbilWarna 
+        library, under the Apache License 2.0\nApache 
+        HttpComponents (httpmime-4.1.3.jar), under the Apache License 2.0\nActionBarSherlock,
+        under the Apache License 2.0\nhttp://www.apache.org/licenses/LICENSE-2.0</string>
+        
+    <string name="load_continue">Continue</string>
+    <string name="load_keep">Keep old image</string>
+    <string name="load_status_ok">Old image saved</string>
+    <string name="load_status_failed">Could not save what you were working on. Do you want to edit the incoming image (your old image will be deleted)?</string>
+    
+
+</resources>

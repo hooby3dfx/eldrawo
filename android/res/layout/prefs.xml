@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/menu_settings">
+
+  <PreferenceCategory
+     android:title="@string/drawing_pref_cat">
+
+     <CheckBoxPreference
+       android:key="soundsOnPref"
+       android:title="@string/sound_pref"
+       android:defaultValue="true"
+       />
+     <CheckBoxPreference
+       android:key="scoresOnPref"
+       android:title="@string/score_pref"
+       android:defaultValue="false"
+       />
+
+  </PreferenceCategory>
+
+   
+</PreferenceScreen>
